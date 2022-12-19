@@ -1,2 +1,2 @@
 # homework9
-試用平台做主題簡報或影片：Prezi或Powtoon
+互動簡報製作-平台使用：Prezi或Powtoon
